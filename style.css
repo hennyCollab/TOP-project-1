@@ -131,6 +131,7 @@ button {
 
 .item > p {
   width: 200px;
+  padding-top: 10px;
   text-align: center;
 }
 
